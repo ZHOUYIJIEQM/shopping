@@ -22,7 +22,7 @@ npm run build --report
 ```
 
 预览：  
-![运行后](https://zhouyijieqm.github.io/shopping/preview/prev.png)  
-![运行后](https://zhouyijieqm.github.io/shopping/preview/prev1.png)  
+![运行后](https://github.com/ZHOUYIJIEQM/shopping/blob/master/preview/prev.png)  
+![运行后](https://github.com/ZHOUYIJIEQM/shopping/blob/master/preview/prev1.png)  
 
 > 代码参考《Vue.js实战》
