@@ -1,5 +1,5 @@
 # vue+vuex+vue-router 一个电商网页
-
+## [在线预览](https://zhouyijieqm.github.io/shoppingDeom/)
 ## 项目内容主要包括：
 ### &ensp;&ensp;使用了路由跳转，vuex状态管理  
 ### &ensp;&ensp;包含有商品列表，商品介绍，购物车
