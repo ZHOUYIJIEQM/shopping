@@ -10,6 +10,7 @@
 </script>
 <style scoped>
   .footer{
+    min-width: 600px;
     margin-top: 30px;
     height: 60px;
     line-height: 60px;
