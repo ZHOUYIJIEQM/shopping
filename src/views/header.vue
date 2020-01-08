@@ -21,6 +21,7 @@
 <style scoped lang="less">
   @header: header;
   .@{header}{
+    min-width: 600px;
     height: 48px;
     line-height: 48px;
     background-color: rgba(0,0,0,.8);
